@@ -12,5 +12,10 @@ color:
     - '#004E98'
 layout_spectrum: 0.33658733894117177
 name: Bystro test
+navigation:
+  - name: Restr
+    url: >-
+      http://nastrencin.sme.sk/c/20240998/tatari-vypalili-trencin-odolal-len-hrad.html#ixzz4HKHQj7w5
+    type: external
 title: Hello
 description: asdasda
