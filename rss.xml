@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Hello]]></title>
+        <description><![CDATA[Hello]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 15 Aug 2016 12:06:48 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[asdfdsfasf]]></title>
+            <description><![CDATA[<article><h1>asdfdsfasf</h1><p> asdfsdf sa sadf sa</p></article>]]></description>
+            <link>http://nastrencin.sme.sk/c/20240998/tatari-vypalili-trencin-odolal-len-hrad.html#ixzz4HKHQj7w5</link>
+            <guid isPermaLink="false">e2e4eea4-6bf2-43b5-83f6-63cfccaef96f</guid>
+            <pubDate>Mon, 15 Aug 2016 12:06:47 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
