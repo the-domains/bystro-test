@@ -1,17 +1,16 @@
 ---
 description: 'Tatári vypálili Trenčín, odolal len hrad'
-dateModified: '2016-08-15T11:59:39.477Z'
-datePublished: '2016-08-15T12:06:52.700Z'
+dateModified: '2016-08-15T12:07:15.251Z'
+datePublished: '2016-08-15T12:07:15.798Z'
 title: ''
 author: []
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-08-15-tatari-vypalili-trencin-odolal-len-hrad.md
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+hasPage: true
+starred: false
+url: tatari-vypalili-trencin-odolal-len-hrad/index.html
+_type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0c0b0d14-b180-467c-a4bb-224c11f69a39.jpg)
