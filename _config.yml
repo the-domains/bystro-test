@@ -1,0 +1,14 @@
+layout_spectrum: 0.33658733894117177
+typography_spectrum: 0.5396457326132804
+color:
+  brandStrength: 0.8438801730517298
+  lightness: 0.16188728879205883
+  saturation: 0.9374656626023352
+  rhythmicContrast: 0.3441862636245787
+  brandColors:
+    - '#00585F'
+    - '#009393'
+    - '#FFFCC4'
+    - '#F0EDBB'
+    - '#FF3800'
+name: Bystro test
